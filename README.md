@@ -1,5 +1,9 @@
 # Twitter Tweet Collector
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-%23FF6600?logo=rabbitmq&logoColor=white)
+![Twitter API](https://img.shields.io/badge/-TwitterAPI-%231DA1F2?logo=twitter&logoColor=white)
+
 ## Description
 This project is designed to automate the collection and processing of Twitter data. It fetches tweets based on user IDs, processes tweet information, and stores relevant data in a database.
 
